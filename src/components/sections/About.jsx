@@ -31,7 +31,7 @@ export default function About() {
             <div className="relative">
               <div className="w-72 h-72 sm:w-80 sm:h-80 rounded-2xl overflow-hidden shadow-xl border-2 border-gray-100 dark:border-gray-700">
                 <img
-                  src="/images/profile_pic.jpeg"
+                  src="/images/semi_profile.jpeg"
                   alt={personalInfo.name}
                   className="w-full h-full object-cover"
                   loading="lazy"
@@ -85,3 +85,6 @@ export default function About() {
     </section>
   );
 }
+
+// gh auth login   # follow prompts to log in as RaiyanKhaan
+// git push -u origin main
