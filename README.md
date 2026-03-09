@@ -274,3 +274,4 @@ MIT — fork freely and personalise for your own portfolio.
 <div align="center">
 Built with ❤️ by <strong>Sanjana Maria</strong> · React + Vite + Tailwind CSS v4 + Framer Motion
 </div>
+# Interactive-Modern-Portfolio
